@@ -1,0 +1,1 @@
+In this project data has been collected from epicurious.com and allrecipes via webscrapping,after preproccessing different machine learning and neural network algorithm have been applied on the data 
